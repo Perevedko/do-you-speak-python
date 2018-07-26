@@ -1,2 +1,2 @@
 # do-you-speak-python
-python lessions for my students
+python lessons for my students
